@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import pygame
 import random
+import sys
 
 class FlappyBird:
     def __init__(self):
